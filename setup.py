@@ -6,9 +6,9 @@ setup(
     name='my_pip_package',
     version=__version__,
 
-    url='https://github.com/MichaelKim0407/tutorial-pip-package',
-    author='Michael Kim',
-    author_email='mkim0407@gmail.com',
+    url='https://github.com/linguist89/anvil_designs',
+    author='Stephan Smuts',
+    author_email='smuts1989@gmail.com',
 
     py_modules=['my_pip_package'],
 )
